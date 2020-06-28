@@ -1,0 +1,6 @@
+# Referenced at D:\peddlecloud\workspace\office-work\notifier\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\peddlecloud\workspace\office-work\notifier\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class com.example.notifier.MainActivity { <init>(); }
+# Referenced at D:\peddlecloud\workspace\office-work\notifier\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }
